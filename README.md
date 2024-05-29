@@ -10,7 +10,7 @@
   - 選出在 comment 中有出現「個不能」pattern 的留言
   - 比對學生的 pattern 是否有符合中文正確 pattern
 
-##執行步驟：
+## 執行步驟：
 1. 請確認已經下載 `Gossiping1-10.txt` 檔案，並將此檔案直接放在 `SelectingPattern` 這個資料夾中
 2. 請確認已經將 `account.info` 填寫好
 3. 執行 `preprocessing.py`
